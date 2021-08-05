@@ -1,9 +1,9 @@
 # restapi
-## clone the repo <a href="https://github.com/abhishekiimt/restapi.git">url of repo </a>
+## Clone the repo <a href="https://github.com/abhishekiimt/restapi.git">URL of repository</a>
 
 After got to your terminal/Command prompt (CMD)
 
-got to the specific folder where you want to clone the repository 
+Go to the specific folder where you want to clone the repository 
 
 ```
 >git clone https://github.com/abhishekiimt/restapi.git folder_name
