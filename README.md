@@ -6,7 +6,7 @@ After got to your terminal/Command prompt (CMD)
 got to the specific folder where you want to clone the repository 
 
 ```
->git clone <a href="https://github.com/abhishekiimt/restapi.git">url of repository </a> folder_name
+>git clone https://github.com/abhishekiimt/restapi.git folder_name
 
 > cd folder_name
 > npm install
